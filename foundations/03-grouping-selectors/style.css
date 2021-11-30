@@ -1,0 +1,14 @@
+.imposter,
+.real {
+    font: "Helvetica", "Times New Roman",  sans-serif;
+    font-size: 28px;
+}
+
+.imposter {
+    background-color: black;
+    color: white;
+}
+
+.real {
+    background-color: yellow;
+}
